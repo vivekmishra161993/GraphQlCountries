@@ -44,7 +44,7 @@ This project follows the Clean Architecture pattern, which separates the codebas
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/country-list-app.git
+   git clone https://github.com/vivekmishra161993/GraphQlCountries.git
 
 
 2. Sync the project to download all dependencies.
